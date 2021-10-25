@@ -17,31 +17,32 @@ header {
 }
 
 .header-navbar-button {
-  width: 60px;
+  width: 55px;
   background-color: #426a5a;
-  height: 60px;
+  height: 55px;
   border-radius: 10px;
   border: 1px solid #000;
   position: relative;
+  margin: 0 15px;
 }
 
 .navbar-button-bar {
   position: absolute;
   background-color: #000;
-  height: 8px;
+  height: 6px;
   width: calc(100% - 16px);
   margin: 0 8px;
   border-radius: 10px;
 }
 
 .bar-1 {
-  top: 10%;
+  top: 20%;
 }
 
 .bar-2 {
-  bottom: 10%;
+  bottom: 20%;
 }
 
 .bar-3 {
-  bottom: calc(50% - 4px);
+  bottom: calc(50% - 3px);
 }

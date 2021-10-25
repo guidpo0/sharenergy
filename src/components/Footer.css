@@ -1,0 +1,14 @@
+footer {
+  width: 100vw;
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  justify-content: space-around;
+  background-color: #426a5a;
+  align-items: center;
+  padding: 10px 5px;
+}
+
+.footer-icon {
+  width: 40px;
+}
