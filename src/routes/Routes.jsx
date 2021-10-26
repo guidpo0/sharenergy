@@ -11,7 +11,7 @@ const Routes = () => (
     /> */}
     <Route
       exact
-      path="/graficos"
+      path="/graficos/:id"
       component={TimeGraph}
     />
     {/* <Route
