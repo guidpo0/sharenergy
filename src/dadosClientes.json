@@ -1,34 +1,34 @@
 [
   {
-    "numeroCliente": 1,
-    "nomeCliente": "Ana Silva",
-    "usinas":
+    "userId": 1,
+    "userName": "Ana Silva",
+    "plants":
     [
       {
-        "usinaId": 1,
-        "percentualDeParticipacao": 30
+        "plantId": 1,
+        "percentageParticipation": 30
       }
     ]
   },
   {
-    "numeroCliente": 2,
-    "nomeCliente": "João Santos",
-    "usinas":
+    "userId": 2,
+    "userName": "João Santos",
+    "plants":
     [
       {
-        "usinaId": 1,
-        "percentualDeParticipacao": 20
+        "plantId": 1,
+        "percentageParticipation": 20
       }
     ]
   },
   {
-    "numeroCliente": 3,
-    "nomeCliente": "Maria Coelho",
-    "usinas":
+    "userId": 3,
+    "userName": "Maria Coelho",
+    "plants":
     [
       {
-        "usinaId": 1,
-        "percentualDeParticipacao": 50
+        "plantId": 1,
+        "percentageParticipation": 50
       }
     ]
   }
