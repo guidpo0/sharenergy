@@ -1,0 +1,35 @@
+[
+  {
+    "userId": 1,
+    "userName": "Ana Silva",
+    "plants":
+    [
+      {
+        "plantId": 1,
+        "percentageParticipation": 30
+      }
+    ]
+  },
+  {
+    "userId": 2,
+    "userName": "João Santos",
+    "plants":
+    [
+      {
+        "plantId": 1,
+        "percentageParticipation": 20
+      }
+    ]
+  },
+  {
+    "userId": 3,
+    "userName": "Maria Coelho",
+    "plants":
+    [
+      {
+        "plantId": 1,
+        "percentageParticipation": 50
+      }
+    ]
+  }
+]

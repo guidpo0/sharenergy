@@ -1,0 +1,48 @@
+header {
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+  background-color: #426a5a;
+  align-items: center;
+  padding: 10px 5px;
+}
+
+.header-logo {
+  width: 80px;
+}
+
+.header-title {
+  font-size: 31px;
+  color: #ffff;
+}
+
+.header-navbar-button {
+  width: 55px;
+  background-color: #426a5a;
+  height: 55px;
+  border-radius: 10px;
+  border: 1px solid #000;
+  position: relative;
+  margin: 0 15px;
+}
+
+.navbar-button-bar {
+  position: absolute;
+  background-color: #000;
+  height: 6px;
+  width: calc(100% - 16px);
+  margin: 0 8px;
+  border-radius: 10px;
+}
+
+.bar-1 {
+  top: 20%;
+}
+
+.bar-2 {
+  bottom: 20%;
+}
+
+.bar-3 {
+  bottom: calc(50% - 3px);
+}
