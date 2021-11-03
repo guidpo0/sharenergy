@@ -1,0 +1,4 @@
+.line-chart-container {
+  overflow-x: scroll;
+  padding: 0 10px 70px 20px;
+}

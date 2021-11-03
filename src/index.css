@@ -5,3 +5,8 @@
   box-sizing: border-box;
   font-family: Montserrat, sans-serif;
 }
+
+#root {
+  position: relative;
+  min-height: 100vh;
+}
