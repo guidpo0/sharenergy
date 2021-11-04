@@ -4,7 +4,15 @@ header {
   justify-content: space-around;
   background-color: #426a5a;
   align-items: center;
-  padding: 10px 5px;
+  padding: 10px 5px 0;
+  flex-direction: column;
+}
+
+.title-container {
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 
 .header-logo {

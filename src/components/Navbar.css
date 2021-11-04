@@ -1,0 +1,41 @@
+nav {
+  padding: 10px 0;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+}
+
+nav.responsive {
+  background-color: #482c3d;
+}
+
+.topnav {
+  position: relative;
+  width: 100%;
+  align-items: flex-start;
+  text-align: start;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 0;
+}
+
+.topnav a {
+  text-decoration: none;
+  color: wheat;
+  font-weight: 500;
+  margin: 0 20px;
+  padding: 0 30px 10px;
+  border-bottom: 1px solid wheat;
+}
+
+.topnav-link {
+  display: none;
+}
+
+.topnav.responsive .topnav-link {
+  float: none;
+  display: block;
+  text-align: left;
+}
