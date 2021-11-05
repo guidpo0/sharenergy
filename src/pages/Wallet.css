@@ -1,0 +1,30 @@
+.wallet-container {
+  display: flex;
+  background-color: #f0edee;
+  min-height: calc(100vh - 120px);
+  flex-direction: column;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 80px;
+}
+
+.wallet-container .title {
+  margin-bottom: 20px;
+}
+
+.wallet-container .subtitle {
+  margin-bottom: 20px;
+}
+
+.cards-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@media only screen and (min-width: 768px) {
+  .cards-container {
+    flex-direction: row;
+  }
+}
