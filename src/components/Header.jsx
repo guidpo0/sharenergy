@@ -5,6 +5,7 @@ import Navbar from './Navbar';
 
 function Header() {
   const links = [
+    { link: '/carteira', text: 'Carteira' },
     { link: '/graficos/1', text: 'Gráficos' },
   ];
 

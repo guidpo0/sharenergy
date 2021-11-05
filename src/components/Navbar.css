@@ -26,8 +26,12 @@ nav.responsive {
   color: wheat;
   font-weight: 500;
   margin: 0 20px;
-  padding: 0 30px 10px;
+  padding: 10px 30px 10px 5px;
   border-bottom: 1px solid wheat;
+}
+
+.topnav :last-child {
+  border-bottom: none;
 }
 
 .topnav-link {

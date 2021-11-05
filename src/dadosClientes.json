@@ -7,6 +7,10 @@
       {
         "plantId": 1,
         "percentageParticipation": 30
+      },
+      {
+        "plantId": 2,
+        "percentageParticipation": 50
       }
     ]
   },
