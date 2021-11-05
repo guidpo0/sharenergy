@@ -15,9 +15,6 @@ const Routes = () => (
       path="/graficos/:id"
       component={TimeGraph}
     />
-    {/* <Route
-      component={NotFound}
-    /> */}
   </Switch>
 );
 
