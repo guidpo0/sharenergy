@@ -2,3 +2,10 @@
   overflow-x: scroll;
   padding: 0 10px 70px 20px;
 }
+
+@media only screen and (min-width: 768px) {
+  .line-chart-container {
+    margin-bottom: 90px;
+    padding: 0 20px;
+  }
+}
