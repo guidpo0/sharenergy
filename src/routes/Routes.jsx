@@ -1,5 +1,5 @@
 import React from 'react';
-import { Switch, Route } from 'react-router-dom';
+import { Switch, Route, Redirect } from 'react-router-dom';
 import TimeGraph from '../pages/TimeGraph';
 import Wallet from '../pages/Wallet';
 
@@ -14,6 +14,10 @@ const Routes = () => (
       exact
       path="/graficos/:id"
       component={TimeGraph}
+    />
+    <Route
+      path="*"
+      element={<Redirect to="/carteira" />}
     />
   </Switch>
 );
