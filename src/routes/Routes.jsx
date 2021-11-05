@@ -16,8 +16,7 @@ const Routes = () => (
       component={TimeGraph}
     />
     <Route
-      path="*"
-      element={<Redirect to="/carteira" />}
+      render={() => <Redirect to="/carteira" />}
     />
   </Switch>
 );

@@ -2,6 +2,8 @@
 
 Projeto desenvolvido para processo seletivo da Sharenergy.
 
+[Aplicação](https://guidpo0.github.io/sharenergy/)
+
 ---
 
 # Boas vindas ao repositório de Front-End do projeto!
@@ -23,6 +25,7 @@ Abaixo você poderá encontrar mais informações técnicas sobre este projeto.
   - [Banco de Dados](#banco-de-dados)
   - [Stacks](#stacks)
   - [Rotas](#rotas)
+  - [Desenvolvimento](#desenvolvimento)
 
 ---
 
@@ -68,5 +71,9 @@ As rotas utilizadas na aplicação são as seguintes:
 
 * Carteira do usuário: `/carteira`;
 * Informações estatísticas das Usinas: `/graficos/:idUsina`;
+
+## Desenvolvimento
+
+Para o desenvolvimento foi feito um projeto no figma: https://www.figma.com/file/STr6QSfesogW9Ezj9FI0e9/Sharenergy?node-id=9%3A177
 
 ---
