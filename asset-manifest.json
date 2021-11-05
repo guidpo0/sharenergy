@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sharenergy/static/css/main.fa89d33c.chunk.css",
+    "main.js": "/sharenergy/static/js/main.107d4bbf.chunk.js",
+    "main.js.map": "/sharenergy/static/js/main.107d4bbf.chunk.js.map",
+    "runtime-main.js": "/sharenergy/static/js/runtime-main.25c94e22.js",
+    "runtime-main.js.map": "/sharenergy/static/js/runtime-main.25c94e22.js.map",
+    "static/js/2.42442957.chunk.js": "/sharenergy/static/js/2.42442957.chunk.js",
+    "static/js/2.42442957.chunk.js.map": "/sharenergy/static/js/2.42442957.chunk.js.map",
+    "static/js/3.10a509bb.chunk.js": "/sharenergy/static/js/3.10a509bb.chunk.js",
+    "static/js/3.10a509bb.chunk.js.map": "/sharenergy/static/js/3.10a509bb.chunk.js.map",
+    "index.html": "/sharenergy/index.html",
+    "static/css/main.fa89d33c.chunk.css.map": "/sharenergy/static/css/main.fa89d33c.chunk.css.map",
+    "static/js/2.42442957.chunk.js.LICENSE.txt": "/sharenergy/static/js/2.42442957.chunk.js.LICENSE.txt",
+    "static/media/calendar.4b59ba29.png": "/sharenergy/static/media/calendar.4b59ba29.png",
+    "static/media/instagram.776d16d0.png": "/sharenergy/static/media/instagram.776d16d0.png",
+    "static/media/logo.63889af5.png": "/sharenergy/static/media/logo.63889af5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25c94e22.js",
+    "static/js/2.42442957.chunk.js",
+    "static/css/main.fa89d33c.chunk.css",
+    "static/js/main.107d4bbf.chunk.js"
+  ]
+}
