@@ -4,6 +4,8 @@ Projeto desenvolvido para processo seletivo da Sharenergy.
 
 [Aplicação](https://guidpo0.github.io/sharenergy/)
 
+[Explicação no Youtube](https://youtu.be/O5CWbL3bAjo)
+
 ---
 
 # Boas vindas ao repositório de Front-End do projeto!
